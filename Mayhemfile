@@ -1,5 +1,5 @@
 project: rnshah9/fpng
-target: fpng
+target: fpng-test
 
 cmds:
   - cmd: /repo/bin/fpng_test @@
