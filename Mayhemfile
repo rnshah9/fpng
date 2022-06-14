@@ -1,6 +1,6 @@
-project: rnshah9/fpng
+project: fpng
 target: fpng-test
 
 cmds:
-  - cmd: /repo/bin/fpng_test @@
+  - cmd: /repo/bin/fpng_test /test.png
     filepath: /test.png
