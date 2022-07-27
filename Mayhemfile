@@ -2,4 +2,4 @@ project: fpng
 target: fpng-test
 
 cmds:
-  - cmd: /install/fpng_test @@
+  - cmd: /install/bin/fpng_test @@
