@@ -2,5 +2,4 @@ project: fpng
 target: fpng-test
 
 cmds:
-  - cmd: /repo/bin/fpng_test /test.png
-    filepath: /test.png
+  - cmd: /install/fpng_test @@
